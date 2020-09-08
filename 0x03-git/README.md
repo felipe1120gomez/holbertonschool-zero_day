@@ -1,1 +1,1 @@
-**Project about Git**
+**Project about Git in Holberton**
